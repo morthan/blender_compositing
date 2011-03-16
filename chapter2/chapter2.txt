@@ -4,3 +4,11 @@ Blender: курс молодого бойца
 v0.5, March 2003
 
 include::section1/section1.txt[]
+
+include::section2/section2.txt[]
+
+include::section3/section3.txt[]
+
+include::section4/section4.txt[]
+
+include::section5/section5.txt[]
