@@ -1,0 +1,76 @@
+Edit Methods
+++++++++++++
+
+image:img/figure2_12_1.png[]
+
+*Рисунок 2.12* 'Категория «Edit Methods»'
+
+Material linked to:
+
+* ObData
+
+* Object
+
+Add new objects:
+
+* Switch to Edit Mode
+
+* Aligned to View
+
+Transform:
+
+* Drag Immediately
+
+Undo:
+
+* Steps
+
+* Memory limit
+
+* Global Undo
+
+Auto Keyframe:
+
+* Auto-Keying Enabled
+
+* Available
+
+* Needed
+
+* Use Visual Keying
+
+image:img/figure2_12_2.png[]
+
+*Рисунок 2.12* 'Категория «Edit Methods» (окончание)'
+
+Grease Pencil:
+
+* Manhatten Dist
+
+* Euclidean Dist
+
+* Eraser Radius
+
+* Smooth Stroke
+
+Duplicate with object:
+
+* Mesh
+
+* Surface
+
+* Curve
+
+* Text
+
+* Metaball
+
+* Armature
+
+* Lamp
+
+* Material
+
+* Texture
+
+* Ipo

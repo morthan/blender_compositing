@@ -1,0 +1,94 @@
+View & Controls
++++++++++++++++
+
+image:img/figure2_11_1.png[]
+
+*Рисунок 2.11* 'Категория «View & Controls»'
+
+Display:
+
+* Tool Tips
+
+* Object Info
+
+* Global Scene
+
+* Large Cursor
+
+* View Name
+
+* Playback FPS
+
+Menus:
+
+* Open on Mouse Over
+
+Toolbox click-hold delay:
+
+Snap to grid:
+
+* Grab
+
+* Rotate
+
+* Scale
+
+* Auto Depth
+
+* Global Pivot
+
+image:img/figure2_11_2.png[]
+
+*Рисунок 2.11* 'Категория «View & Controls» (продолжение)'
+
+View zoom:
+
+* Continue
+
+* Dolly
+
+* Scale
+
+* Zoom to Mouse Position
+
+View rotation:
+
+* Trackball
+
+* Turntable
+
+* Auto Perspective
+
+* Around Selection
+
+image:img/figure2_11_3.png[]
+
+*Рисунок 2.11* 'Категория «View & Controls» (окончание)'
+
+Middle Mouse Button:
+
+* Rotate View
+
+* Pan View
+
+Mouse Wheel:
+
+* Invert Zoom
+
+* Scroll Lines
+
+* Smooth View
+
+* Rotation Angle
+
+3D Transform Widget:
+
+* Size
+
+* Handle
+
+* Hotspot
+
+* Object Center Size
+
+6DOF devices speeds:
