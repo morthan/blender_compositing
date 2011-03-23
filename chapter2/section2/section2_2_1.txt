@@ -78,11 +78,8 @@ include::section2_2_1_1.txt[]
 
 include::section2_2_1_2.txt[]
 
-Auto Save
-+++++++++
+include::section2_2_1_3.txt[]
 
-File Paths
-++++++++++
+include::section2_2_1_4.txt[]
 
-Сохранение настроек
-+++++++++++++++++++
+include::section2_2_1_5.txt[]

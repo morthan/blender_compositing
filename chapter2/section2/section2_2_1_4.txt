@@ -1,0 +1,20 @@
+File Paths
+++++++++++
+
+YFexport:
+
+Fonts:
+
+Textures:
+
+Tex Plugins:
+
+Seq Plugins:
+
+Render:
+
+Python Scripts:
+
+Sounds:
+
+Temp:

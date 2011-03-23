@@ -1,0 +1,14 @@
+Auto Save
++++++++++
+
+image:img/figure2_13.png[]
+
+*Рисунок 2.13* 'Категория «Auto Save»'
+
+Save Versions:
+
+Auto Save Temp Files:
+
+Recent Files:
+
+Save Preview Images:
