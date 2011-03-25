@@ -1,4 +1,73 @@
 Свойства вида
 +++++++++++++
 
+Окно свойств вида вызывается путём выбора из меню 3D-вида пункта *View* -> *View
+Properties...*.
+
+image:img/figure2_16.png[]
+
+*Рисунок 2.16* 'Окно свойств вида'
+
+* Grid:
+
+- Spacing
+
+- Lines
+
+- Divisions
+
+* View Camera:
+
+- Lens
+
+- Clip Start
+
+- Clip End
+
+* Display:
+
+- Outline Selected
+
+- All Object Centers
+
+- Relationship Lines
+
+- Solid Tex
+
+* 3D Display:
+
+- Grid Floor
+
+- X Axis
+
+- Y Axis
+
+- Z Axis
+
+* 3D Cursor:
+
+- X
+
+- Y
+
+- Z
+
+* View Locking:
+
+- Object:
+
+- Bone:
+
+* Keyframe Display:
+
+- Active
+
+- Muted
+
+- Local
+
+- Material
+
+- ShapeKey
+
 'Описать окно свойств вида'
