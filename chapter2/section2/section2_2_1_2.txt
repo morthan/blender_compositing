@@ -1,5 +1,5 @@
 Edit Methods
-++++++++++++
+^^^^^^^^^^^^
 
 image:img/figure2_12_1.png[]
 

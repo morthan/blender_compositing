@@ -1,5 +1,5 @@
 View & Controls
-+++++++++++++++
+^^^^^^^^^^^^^^^
 
 image:img/figure2_11_1.png[]
 
