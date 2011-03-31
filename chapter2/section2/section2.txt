@@ -37,7 +37,3 @@ image:img/figure2_3.png[]
 include::section2_1.txt[]
 
 include::section2_2.txt[]
-
-include::section2_3.txt[]
-
-include::section2_4.txt[]
