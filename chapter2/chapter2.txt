@@ -27,3 +27,8 @@ include::section3/section3.txt[]
 include::section4/section4.txt[]
 
 include::section5/section5.txt[]
+
+Книги по Blender
+----------------
+
+'Перечислить книги для начинающих вместе со ссылками на скачивание'
