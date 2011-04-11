@@ -1,0 +1,17 @@
+Контейнеры
+----------
+
+Audio-Video Interlaced (AVI)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+'stub'
+
+Apple QuickTime Movie (MOV)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+'stub'
+
+MPEG4 (MP4)
+~~~~~~~~~~~
+
+'stub'
