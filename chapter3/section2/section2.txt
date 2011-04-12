@@ -1,36 +1,8 @@
 Изображения
 -----------
 
-Без потери качества
-~~~~~~~~~~~~~~~~~~~
+'Наиболее часто используемые форматы изображений.'
 
-Windows Bitmap (BMP)
-^^^^^^^^^^^^^^^^^^^^
+include::section2_1.txt[]
 
-Прозрачность
-^^^^^^^^^^^^
-
-* Compuserve Graphics Interchange Format (GIF)
-
-* Portable Network Graphics (PNG)
-
-* TARGA/TIFF
-
-OpenEXR
-^^^^^^^
-
-* Z-буфер
-
-* Многослойность
-
-С потерями
-~~~~~~~~~~
-
-JPEG
-^^^^
-
-JPEG 2000
-^^^^^^^^^
-
-Фрактальное сжатие
-^^^^^^^^^^^^^^^^^^
+include::section2_2.txt[]
