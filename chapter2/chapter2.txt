@@ -1,4 +1,4 @@
-Blender: курс молодого бойца
+﻿Blender: курс молодого бойца
 ============================
 Сергей Шилов
 v0.5, March 2003
@@ -30,5 +30,80 @@ include::section5/section5.txt[]
 
 Книги по Blender
 ----------------
+
+Несмотря на то, что глава получилась большая и насыщенная, очень много вопросов осталось не раскрыто. В принципе, изложенного здесь должно быть достаточно для дальнейшей работы, но если среди читателей имеются энтузиасты, желающие узнать больше, то помочь им в этом -- мой священный долг!
+
+Итак, если вы заинтересовались применением Blender не только в композитинге, то вот вам список имеющихся книг по Blender.
+
+Blender Basics, третье издание
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+image:img/figure2_48.jpg[]
+
+*Рисунок 2.48* 'Blender Basics, третье издание'
+
+*Автор:* Джеймс Кронистер ('James Chronister')
+
+*Перевод:* Юлия Корбут, Юрий Азовцев
+
+*Ссылка:* http://sigma-server.com/b3d_files/BlenderBasics-rus.pdf[http://sigma-server.com/b3d_files/BlenderBasics-rus.pdf]
+
+Blender. 3D-моделирование и анимация
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+image:img/figure2_49.jpg[]
+
+*Рисунок 2.49* 'Blender. 3D-моделирование и анимация'
+
+*Автор:* Андрей Прахов
+
+*Ссылка:* http://www.ozon.ru/context/detail/id/4446099/
+
+Introducing Character Animation with Blender
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+image:img/figure2_50.jpg[]
+
+*Рисунок 2.50* 'Introducing Character Animation with Blender'
+
+*Автор:* Тони Муллен ('Tony Mullen')
+
+*Ссылка:* http://www.amazon.com/Introducing-Character-Animation-Blender-Mullen/dp/0470102608[http://www.amazon.com/Introducing-Character-Animation-Blender-Mullen/dp/0470102608]
+
+Bounce, Tumble and Splash!
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+image:img/figure2_51.jpg[]
+
+*Рисунок 2.51* 'Bounce, Tumble and Splash!'
+
+*Автор:* Тони Муллен ('Tony Mullen')
+
+*Ссылка:* http://www.blender3d.org/e-shop/product_info_n.php?products_id=107[http://www.blender3d.org/e-shop/product_info_n.php?products_id=107]
+
+Foundation Blender Compositing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+image:img/figure2_52.jpg[]
+
+*Рисунок 2.52* 'Foundation Blender Compositing'
+
+*Автор:* Роджер Уикес ('Roger Wickes')
+
+*Ссылка:* http://www.friendsofed.com/book.html?isbn=1430219769[http://www.friendsofed.com/book.html?isbn=1430219769]
+
+VFX своими руками
+~~~~~~~~~~~~~~~~~
+
+image:img/figure2_53.jpg[]
+
+*Рисунок 2.53* 'VFX своими руками'
+
+*Автор:* Марк Панов
+
+*Ссылка:* http://flibusta.net/b/227750[http://flibusta.net/b/227750]
+
+Другие источники
+~~~~~~~~~~~~~~~~
 
 'Перечислить книги для начинающих вместе со ссылками на скачивание'
