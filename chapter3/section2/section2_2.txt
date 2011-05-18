@@ -76,5 +76,3 @@ ______________________________________________________________________
 include::section2_2_1.txt[]
 
 include::section2_2_2.txt[]
-
-include::section2_2_3.txt[]
