@@ -1,7 +1,7 @@
 Форматы
 =======
 Сергей Шилов
-v0.5, April 2003
+v0.5, May 2003
 :icons:
 :iconsdir: ./icons
 :toc:
