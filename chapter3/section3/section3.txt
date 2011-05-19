@@ -1,38 +1,8 @@
 Видео
 -----
 
-Стандарты
-~~~~~~~~~
+include::section3_1.txt[]
 
-NTSC
-^^^^
+include::section3_2.txt[]
 
-PAL
-^^^
-
-HD
-^^
-
-Последовательности
-~~~~~~~~~~~~~~~~~~
-
-Proxy
-^^^^^
-
-Кодеки
-~~~~~~
-
-MPEG2
-^^^^^
-
-DivX
-^^^^
-
-XviD
-^^^^
-
-Theora
-^^^^^^
-
-WP8
-^^^
+include::section3_3.txt[]
