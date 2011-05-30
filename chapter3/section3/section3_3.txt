@@ -76,9 +76,3 @@ pictures' -- двунаправленные картинки), ссылающи�
 include::section3_3_1.txt[]
 
 include::section3_3_2.txt[]
-
-include::section3_3_3.txt[]
-
-include::section3_3_4.txt[]
-
-include::section3_3_5.txt[]
