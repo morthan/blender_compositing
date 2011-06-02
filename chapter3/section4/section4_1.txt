@@ -61,8 +61,4 @@ image:img/figure3_12.png[]
 
 include::section4_1_1.txt[]
 
-FLAC
-^^^^
-
-APE
-^^^
+include::section4_1_2.txt[]
